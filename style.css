@@ -1,0 +1,18 @@
+body{
+    background-color: yellow; 
+}
+.heading1{
+    background-color: aquamarine;
+    color: navy;
+}
+.head1{
+    color: aqua;
+    background-color:yellowgreen;
+    font-size: 40px;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    word-spacing: 30px;
+    letter-spacing: 10px;
+    text-shadow:4px -5px 5px blue ;
+}
+
