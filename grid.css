@@ -1,0 +1,23 @@
+.wrapper{
+    height: 100vh;
+    display: grid;
+    grid-template-columns:repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+
+}
+
+
+.wrapper div{
+    background-color: red;
+    border: 2px black solid;
+
+}
+
+
+.wrapper .ch1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+    grid-row-start: 1;
+    grid-row-end: 3;
+}

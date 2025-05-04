@@ -1,0 +1,12 @@
+.parent{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+
+.main{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 12px solid blue;
+}

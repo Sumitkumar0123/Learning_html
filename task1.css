@@ -1,0 +1,15 @@
+.sumit{
+    display: flex;
+    background-color: tomato;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+button{
+    padding: 9px;
+    background-color: yellow;
+    color: blue;
+}

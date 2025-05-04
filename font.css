@@ -1,0 +1,23 @@
+.head{
+    font-family: "Tagesschrift", system-ui;
+}
+
+.head1{
+    font-family: "Poppins", sans-serif;
+}
+
+.wrapper{
+    background-color: yellow;
+    height: 200px;
+
+}
+
+.ch1{
+
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 50px;
+
+}
